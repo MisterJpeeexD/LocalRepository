@@ -1,4 +1,10 @@
+# Carpetas
+mini-project
 node_modules
+
+# Archivos
+Ejercicio_3_desc.js
+upload-files.bat
 package-lock.json
 package.json
 prueba.js
