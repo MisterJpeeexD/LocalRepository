@@ -5,7 +5,7 @@ var fname = "Jean Paul";
 var lname = "Santander";
 
 // Ejercicio 2
-var num = 10;
+let num = 10;
 
 // Ejercicio 3
 var cf = "Completos";
@@ -47,7 +47,7 @@ console.log(fname,lname);
 console.log();
 console.log("Ejercicio 2:");
 console.log("Variable inicial: ",num);
-console.log("Sumamdo 5: ",num = num + 5);
+console.log("Sumamdo 5: ",num = num + 5); // num += 5
 console.log("Multiplicando por 3: ",num * 3);
 
 // Ejercicio 3
