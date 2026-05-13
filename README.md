@@ -12,19 +12,19 @@ Este repositorio contiene ejercicios de:
  # Detalle ejercicios
 
 - Ejercicio 1 - console.log & for:
-    - console.log()
-    - if(var1==var2){}
+    - `console.log()`
+    - `if(var1==var2){}`
 
 - Ejercicio 2 - prompt:
     - prompt
-    - uso variables con console.log(`example ${var}`)
+    - uso variables con `console.log(example ${var})`
 
 - Ejercicio 3 - for, while & if
-    - for(i;var1==var2;i++){}
-    - for(list in array){}
-    - for(list of array){}
-    - while(true){}
-    - if(var1==var2){}
+    - `for(i;var1==var2;i++){}`
+    - `for(list in array){}`
+    - `for(list of array){}`
+    - `while(true){}`
+    - `if(var1==var2){}`
     
 ## Autor
 Jean Paul Santander
