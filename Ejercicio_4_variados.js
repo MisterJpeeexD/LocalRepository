@@ -102,7 +102,7 @@ e8e = e8e / 100
 
 // AFC
 let e8f = prompt("¿Tiene contrato indefinido?, si es si, se le realizara un cargo de 0.6% por deduccion de AFC: (si/no)")
-if(e8f == "si" || e8f == "Si"){
+if(e8f.toLowerCase() == "si"){
     e8f = 0.6
     e8f = e8f / 100
 } else {
@@ -234,4 +234,19 @@ if(ano_nacimiento > ano_actual){
     let edad 
     edad=ano_actual-ano_nacimiento
     console.log("Tu edad es o sera de:",edad)
+}
+//4. Fizz-buzz.
+console.log()
+console.log("Ejercicio 12: Fizz-buzz")
+console.log()
+for(let fb = 1 ; fb < 100 ; fb++ ){
+    if(fb % 3 == 0 && fb % 5 == 0){
+        console.log("Fizz-Buzz!")
+    } else if(fb % 3 == 0){
+        console.log("Fizz!")
+    } else if(fb % 5 == 0){
+        console.log("Buzz")
+    } else {
+        console.log(fb)
+    }
 }
