@@ -3,8 +3,9 @@ mini-project
 node_modules
 
 # Archivos
+.gitignore
 Ejercicio_3_desc.js
-upload-files.bat
+git.upload.bat
 package-lock.json
 package.json
 prueba.js
