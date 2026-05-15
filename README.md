@@ -1,6 +1,6 @@
 # Ejercicios JavaScript Básico
 
-Ultima actualizacion: 13-05-26 19:45
+Ultima actualizacion: 15-05-26 12:08
 
 Este repositorio contiene ejercicios de:
 
