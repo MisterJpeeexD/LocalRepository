@@ -25,6 +25,13 @@ Este repositorio contiene ejercicios de:
     - `for(list of array){}`
     - `while(true){}`
     - `if(var1==var2){}`
-    
+
+- Ejercicio 4 - Repaso Ejercicio 1, 2 y 3
+
+## Repositorio "Introduccion a Js"
+
+- Si necesitas revisar apuntes de uso de instrucciones en lenguaje JavaScript, visita el siguiente link:
+https://github.com/MisterJpeeexD/Introduccion-JavaScript.git
+
 ## Autor
 Jean Paul Santander
