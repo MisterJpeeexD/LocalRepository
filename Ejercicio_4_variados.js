@@ -239,7 +239,7 @@ if(ano_nacimiento > ano_actual){
 console.log()
 console.log("Ejercicio 12: Fizz-buzz")
 console.log()
-for(let fb = 1 ; fb < 100 ; fb++ ){
+for(let fb = 1 ; fb <= 100 ; fb++ ){
     if(fb % 3 == 0 && fb % 5 == 0){
         console.log("Fizz-Buzz!")
     } else if(fb % 3 == 0){
