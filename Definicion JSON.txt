@@ -1,0 +1,29 @@
+JSON:
+Java
+Script
+Object
+Notation
+
+Es un formato de texto para guardar y transportar datos. Se usa normalmente en las paginas web
+Si la pagina web hecha en python, C# o Java y requiere obtener datos de una base de datos, llama al archivo JSON (ya que es un formato de texto universal)
+y obtiene la informacion facilmente ya que lo entiende sin problemas
+
+El formato del archivo .JSON es de la siguiente manera
+
+{
+  "nombre": "Felipe",
+  "profesion": "Dev",
+  "edad": 26,
+  "hobbies": ["Desarrollar", "Gaming", "Investigador"]
+}
+
+¿Por que aislarlos y no dejarlos en el mismo programa?
+Porque si llegas a cerrar el archivo, los datos ingresados se pueden borrar, ya que el programa corre sobre la RAM, y como sabes,
+la RAM guarda datos de forma temporal, si apagas tu PC, se borra todo.
+
+Entonces, al guardar estos archivos, guardas el valor que creaste y mantienes un programa optimizado y ordenado para alguien que necesite
+leer tu codigo.
+
+Algo que posiblemente pasaste por encima, pero, te diste cuenta el cambio de las llaves en un archivo JSON vs JS?
+Las llaves ahora tienen comillas, en js no es necesario, pero aca en JSON es estrictamente requerido y tampoco acepta comentarios, asi que,
+si creas un archivo JSON, costara un poco interpretarlo si viene alguien de afuera a ver tu codigo por primera vez
